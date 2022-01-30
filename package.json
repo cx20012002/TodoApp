@@ -6,7 +6,7 @@
   "scripts": {
     "watch": "nodemon stripe",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node stripe.js"
   },
   "dependencies": {
     "express": "^4.17.2",
